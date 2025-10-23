@@ -1,4 +1,7 @@
 <project version="4">
+  <component name="ProjectResources">
+    <resource url="https://u-s-ministry-portal-380943501519.us-west1.run.app/" location="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
